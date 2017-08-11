@@ -64,7 +64,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>6480</nuyen>
+  <nuyen>4980</nuyen>
   <startingnuyen>450000</startingnuyen>
   <adeptwaydiscount>0</adeptwaydiscount>
   <sumtoten>10</sumtoten>
@@ -119,7 +119,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <karma>0</karma>
       <augmodifier>0</augmodifier>
       <category>Standard</category>
-      <totalvalue>2</totalvalue>
+      <totalvalue>1</totalvalue>
     </attribute>
     <attribute>
       <name>REA</name>
@@ -130,7 +130,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <karma>0</karma>
       <augmodifier>0</augmodifier>
       <category>Standard</category>
-      <totalvalue>2</totalvalue>
+      <totalvalue>1</totalvalue>
     </attribute>
     <attribute>
       <name>STR</name>
@@ -804,67 +804,67 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>2c51592b-752c-41fb-a901-dfba2d187315</id>
+        <id>ad205333-d686-4f5a-ada2-f58f87a19586</id>
         <name>Stealth</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>a536b23b-fd43-4a5f-914b-11e9e3fbbe32</id>
+        <id>5efaa047-e7f0-411b-8f9e-c372a24a6ca0</id>
         <name>Outdoors</name>
       </group>
       <group>
         <karma>0</karma>
         <base>2</base>
-        <id>8c462b4a-6547-4df2-b001-9b1a200dc2ff</id>
+        <id>22919d4b-d176-48b2-a013-5fed67d5a06e</id>
         <name>Influence</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>d8e3f65c-3d57-4c27-96a8-5754f4f239b4</id>
+        <id>36f34eca-bdb2-4fe1-82e1-742a5e62010b</id>
         <name>Firearms</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>d9d7e540-bff3-4eca-841f-a0c8e846626c</id>
+        <id>b85b16d3-016c-423d-b432-eed4ec0672e6</id>
         <name>Engineering</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>a7f3557c-58f1-4739-bedd-dbce507e7167</id>
+        <id>ac0ee088-f465-4297-aa2b-6bedd8d95db3</id>
         <name>Electronics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>e3be3f8b-7747-4457-8541-6f7ede70062c</id>
+        <id>e6720354-7594-432b-9a73-34445a4fe76e</id>
         <name>Cracking</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>30d5399e-92a8-480d-871d-552dfe3cc7cb</id>
+        <id>77bdf724-e3eb-479b-bafb-b3054ae79292</id>
         <name>Close Combat</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>a1d7d4d8-b778-411d-a6a6-2b07e5f99ec8</id>
+        <id>dae71d99-1ce1-42d5-9725-c99ea4bb06b8</id>
         <name>Biotech</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>c5cef352-0e2d-40af-85f8-430e6a550885</id>
+        <id>f99556d9-e458-4250-9aff-85d8f2c0cf94</id>
         <name>Athletics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>f05930aa-2184-4626-bbe5-7f3d37ccf947</id>
+        <id>9bb28852-52b0-44c4-adb3-f8f5e332881d</id>
         <name>Acting</name>
       </group>
     </groups>
@@ -957,6 +957,54 @@ In the years since, she has made a name for herself as a freelance decker, outsh
   <limitmodifiers />
   <armors>
     <armor>
+      <sourceid>40826eaa-c22a-43da-8730-bc1867ea65a1</sourceid>
+      <guid>339ccce6-06c5-4a63-9b3c-6a1c30819337</guid>
+      <name>Armor Clothing</name>
+      <category>Armor</category>
+      <armor>6</armor>
+      <armoroverride>0</armoroverride>
+      <armorcapacity>6</armorcapacity>
+      <avail>2</avail>
+      <cost>450</cost>
+      <source>SR5</source>
+      <page>437</page>
+      <armorname />
+      <equipped>True</equipped>
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <rating>0</rating>
+      <armormods />
+      <bonus />
+      <location>Bike</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+    </armor>
+    <armor>
+      <sourceid>43119c33-3c4a-4c71-acf4-71a277aa8118</sourceid>
+      <guid>ca213e80-66fa-4f12-8d3f-d2a0bd22c467</guid>
+      <name>Bike Racing Helmet</name>
+      <category>Specialty Armor</category>
+      <armor>+2</armor>
+      <armoroverride>0</armoroverride>
+      <armorcapacity>6</armorcapacity>
+      <avail>6</avail>
+      <cost>200</cost>
+      <source>RG</source>
+      <page>68</page>
+      <armorname />
+      <equipped>True</equipped>
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <rating>0</rating>
+      <armormods />
+      <bonus />
+      <location>Bike</location>
+      <notes>Image and Sound Link</notes>
+      <discountedcost>False</discountedcost>
+    </armor>
+    <armor>
       <sourceid>36a4cd30-c32c-44d0-847a-0c15fb51072a</sourceid>
       <guid>aa98e62e-0864-4dd5-861f-a2145cb38091</guid>
       <name>Armor Jacket</name>
@@ -1002,6 +1050,30 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <bonus />
       <location>Low Key</location>
       <notes />
+      <discountedcost>False</discountedcost>
+    </armor>
+    <armor>
+      <sourceid>43119c33-3c4a-4c71-acf4-71a277aa8118</sourceid>
+      <guid>2ef5f31a-6067-4ff4-a86d-178d6e1084ab</guid>
+      <name>Bike Racing Helmet</name>
+      <category>Specialty Armor</category>
+      <armor>+2</armor>
+      <armoroverride>0</armoroverride>
+      <armorcapacity>6</armorcapacity>
+      <avail>6</avail>
+      <cost>200</cost>
+      <source>RG</source>
+      <page>68</page>
+      <armorname />
+      <equipped>True</equipped>
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <rating>0</rating>
+      <armormods />
+      <bonus />
+      <location>Bike</location>
+      <notes>Image and Sound Link</notes>
       <discountedcost>False</discountedcost>
     </armor>
   </armors>
@@ -2006,6 +2078,82 @@ In the years since, she has made a name for herself as a freelance decker, outsh
     </lifestyle>
   </lifestyles>
   <gears>
+    <gear>
+      <guid>14b386cf-adc3-4b10-9d4d-663884597ee5</guid>
+      <id>2f30c3cc-a62e-4ac1-8e1f-5fa217cadae4</id>
+      <name>Mapsoft</name>
+      <category>Software</category>
+      <capacity />
+      <armorcapacity />
+      <minrating>0</minrating>
+      <maxrating>0</maxrating>
+      <rating>0</rating>
+      <qty>1</qty>
+      <avail>4</avail>
+      <avail3 />
+      <avail6 />
+      <avail10 />
+      <cost>100</cost>
+      <cost3 />
+      <cost6 />
+      <cost10 />
+      <extra>City Streets</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <homenode>False</homenode>
+      <bonus>
+        <selecttext />
+      </bonus>
+      <source>SR5</source>
+      <page>441</page>
+      <devicerating>0</devicerating>
+      <gearname />
+      <matrixcmfilled>0</matrixcmfilled>
+      <conditionmonitor>8</conditionmonitor>
+      <includedinparent>False</includedinparent>
+      <children />
+      <location>Programs</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+    </gear>
+    <gear>
+      <guid>a22d0255-b64d-48db-b3ef-53d44f8ee9c0</guid>
+      <id>fc8da0ad-bbfd-4961-a311-71db32f86130</id>
+      <name>Shopsoft</name>
+      <category>Software</category>
+      <capacity />
+      <armorcapacity />
+      <minrating>0</minrating>
+      <maxrating>0</maxrating>
+      <rating>0</rating>
+      <qty>1</qty>
+      <avail>4</avail>
+      <avail3 />
+      <avail6 />
+      <avail10 />
+      <cost>150</cost>
+      <cost3 />
+      <cost6 />
+      <cost10 />
+      <extra>Motorcycles and Motorcycle Parts</extra>
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <homenode>False</homenode>
+      <bonus>
+        <selecttext />
+      </bonus>
+      <source>SR5</source>
+      <page>441</page>
+      <devicerating>0</devicerating>
+      <gearname />
+      <matrixcmfilled>0</matrixcmfilled>
+      <conditionmonitor>8</conditionmonitor>
+      <includedinparent>False</includedinparent>
+      <children />
+      <location>Programs</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+    </gear>
     <gear>
       <guid>e960c0df-e0d3-4995-a410-e602117dbb24</guid>
       <id />
@@ -5059,6 +5207,50 @@ In the years since, she has made a name for herself as a freelance decker, outsh
     </improvement>
     <improvement>
       <target />
+      <improvedname>City Streets</improvedname>
+      <sourcename>14b386cf-adc3-4b10-9d4d-663884597ee5</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Motorcycles and Motorcycle Parts</improvedname>
+      <sourcename>a22d0255-b64d-48db-b3ef-53d44f8ee9c0</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
       <improvedname>MAG</improvedname>
       <sourcename>Essence Loss</sourcename>
       <min>0</min>
@@ -5114,6 +5306,52 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <exclude />
       <improvementttype>Attribute</improvementttype>
       <improvementsource>EssenceLoss</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <unique>precedence-1</unique>
+      <target />
+      <improvedname>AGI</improvedname>
+      <sourcename>Armor Encumbrance</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>-1</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>ArmorEncumbrance</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <unique>precedence-1</unique>
+      <target />
+      <improvedname>REA</improvedname>
+      <sourcename>Armor Encumbrance</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>-1</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <improvementttype>Attribute</improvementttype>
+      <improvementsource>ArmorEncumbrance</improvementsource>
       <custom>False</custom>
       <customname />
       <customid />
@@ -5185,6 +5423,21 @@ In the years since, she has made a name for herself as a freelance decker, outsh
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>16400899-4393-4f87-8843-db759a6c3822</guid>
+      <date>2017-08-11T18:09:59</date>
+      <amount>-1500</amount>
+      <reason>Upgrade to Racing Bike Pack (RF 247) before campaign</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualSubtract</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <locations>
     <location>Tech</location>
@@ -5196,6 +5449,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
   <armorbundles>
     <armorbundle>Low Key</armorbundle>
     <armorbundle>High Risk</armorbundle>
+    <armorbundle>Bike</armorbundle>
   </armorbundles>
   <weaponlocations>
     <weaponlocation>Home</weaponlocation>
@@ -5205,6 +5459,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
   <calendar />
   <sources>
     <source>SR5</source>
+    <source>RG</source>
     <source>DT</source>
   </sources>
 </character>
