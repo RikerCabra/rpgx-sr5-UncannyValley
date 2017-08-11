@@ -804,67 +804,67 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>892dfb4e-5eb8-4406-bbfa-e80c8cafd948</id>
+        <id>2c51592b-752c-41fb-a901-dfba2d187315</id>
         <name>Stealth</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>13753ab3-36a4-4432-808d-935be4e0b5bc</id>
+        <id>a536b23b-fd43-4a5f-914b-11e9e3fbbe32</id>
         <name>Outdoors</name>
       </group>
       <group>
         <karma>0</karma>
         <base>2</base>
-        <id>2ed36d34-e639-4eca-b75a-25b83708c4ab</id>
+        <id>8c462b4a-6547-4df2-b001-9b1a200dc2ff</id>
         <name>Influence</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>19fe677a-6b9f-4f60-b1d3-3e240bfbfd99</id>
+        <id>d8e3f65c-3d57-4c27-96a8-5754f4f239b4</id>
         <name>Firearms</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>018c5b5f-8a5c-4771-b9f7-1ad713f53c7d</id>
+        <id>d9d7e540-bff3-4eca-841f-a0c8e846626c</id>
         <name>Engineering</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>36b7f723-46b1-4318-9c76-44746d376657</id>
+        <id>a7f3557c-58f1-4739-bedd-dbce507e7167</id>
         <name>Electronics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>6234645f-3cd0-49f2-920b-7f179c9c5b1c</id>
+        <id>e3be3f8b-7747-4457-8541-6f7ede70062c</id>
         <name>Cracking</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>e7561c3b-1de8-41be-97f3-e6546f1606b0</id>
+        <id>30d5399e-92a8-480d-871d-552dfe3cc7cb</id>
         <name>Close Combat</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>7607cca6-814b-4ce1-8764-12f0856e6b43</id>
+        <id>a1d7d4d8-b778-411d-a6a6-2b07e5f99ec8</id>
         <name>Biotech</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>f039d39b-f7f3-4c8c-8f47-50f91c765159</id>
+        <id>c5cef352-0e2d-40af-85f8-430e6a550885</id>
         <name>Athletics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>a50169f7-623a-4f21-b743-fe64ddac6f8f</id>
+        <id>f05930aa-2184-4626-bbe5-7f3d37ccf947</id>
         <name>Acting</name>
       </group>
     </groups>
@@ -2269,10 +2269,10 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <discountedcost>False</discountedcost>
       <overclocked>False</overclocked>
       <devicerating>4</devicerating>
-      <attack>8</attack>
-      <sleaze>6</sleaze>
-      <dataprocessing>4</dataprocessing>
-      <firewall>2</firewall>
+      <attack>2</attack>
+      <sleaze>8</sleaze>
+      <dataprocessing>6</dataprocessing>
+      <firewall>4</firewall>
       <livingpersona>False</livingpersona>
       <active>False</active>
     </gear>
