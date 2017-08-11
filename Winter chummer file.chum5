@@ -64,7 +64,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
   <burntstreetcred>0</burntstreetcred>
   <created>True</created>
   <maxavail>12</maxavail>
-  <nuyen>4980</nuyen>
+  <nuyen>2680</nuyen>
   <startingnuyen>450000</startingnuyen>
   <adeptwaydiscount>0</adeptwaydiscount>
   <sumtoten>10</sumtoten>
@@ -956,6 +956,75 @@ In the years since, she has made a name for herself as a freelance decker, outsh
   <martialartmaneuvers />
   <limitmodifiers />
   <armors>
+    <armor>
+      <sourceid>998a55b0-2307-45db-99fc-ae2d1501f6dc</sourceid>
+      <guid>c88c82fe-2ae1-4edf-8a2d-cbca92f69458</guid>
+      <name>Mortimer of London: Berwick Dress</name>
+      <category>High-Fashion Armor Clothing</category>
+      <armor>8</armor>
+      <armoroverride>0</armoroverride>
+      <armorcapacity>4</armorcapacity>
+      <avail>8</avail>
+      <cost>2300</cost>
+      <source>RG</source>
+      <page>58</page>
+      <armorname />
+      <equipped>True</equipped>
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <rating>0</rating>
+      <armormods>
+        <armormod>
+          <guid>844ba759-82db-4af1-8fcd-a9112eb65f5b</guid>
+          <name>Custom Fit</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <avail>0</avail>
+          <cost>0</cost>
+          <bonus />
+          <source>RG</source>
+          <page>59</page>
+          <included>True</included>
+          <equipped>True</equipped>
+          <extra />
+          <notes />
+          <discountedcost>False</discountedcost>
+        </armormod>
+        <armormod>
+          <guid>d0da49f7-00c8-498a-b251-e01d86355f42</guid>
+          <name>Concealability</name>
+          <category>General</category>
+          <armor>0</armor>
+          <armorcapacity>[0]</armorcapacity>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <avail>0</avail>
+          <cost>0</cost>
+          <bonus />
+          <source>RG</source>
+          <page>59</page>
+          <included>True</included>
+          <equipped>True</equipped>
+          <extra />
+          <notes />
+          <discountedcost>False</discountedcost>
+        </armormod>
+      </armormods>
+      <bonus>
+        <limitmodifier>
+          <limit>Social</limit>
+          <value>1</value>
+          <condition>Must be visible</condition>
+        </limitmodifier>
+      </bonus>
+      <location>High Class</location>
+      <notes />
+      <discountedcost>False</discountedcost>
+    </armor>
     <armor>
       <sourceid>40826eaa-c22a-43da-8730-bc1867ea65a1</sourceid>
       <guid>339ccce6-06c5-4a63-9b3c-6a1c30819337</guid>
@@ -5250,6 +5319,29 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <notes />
     </improvement>
     <improvement>
+      <unique>Mortimer of London: Berwick Dress</unique>
+      <target />
+      <improvedname>Social</improvedname>
+      <sourcename>c88c82fe-2ae1-4edf-8a2d-cbca92f69458</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>1</val>
+      <rating>0</rating>
+      <exclude>Must be visible</exclude>
+      <improvementttype>LimitModifier</improvementttype>
+      <improvementsource>Armor</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
       <target />
       <improvedname>MAG</improvedname>
       <sourcename>Essence Loss</sourcename>
@@ -5438,6 +5530,21 @@ In the years since, she has made a name for herself as a freelance decker, outsh
         <extra />
       </undo>
     </expense>
+    <expense>
+      <guid>02ce3295-4477-4415-bfc8-4f11ef71f9c5</guid>
+      <date>2017-08-11T18:15:01</date>
+      <amount>-2300</amount>
+      <reason>Purchased Armor Mortimer of London: Berwick Dress</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddArmor</nuyentype>
+        <objectid>c88c82fe-2ae1-4edf-8a2d-cbca92f69458</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
   </expenses>
   <locations>
     <location>Tech</location>
@@ -5450,6 +5557,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
     <armorbundle>Low Key</armorbundle>
     <armorbundle>High Risk</armorbundle>
     <armorbundle>Bike</armorbundle>
+    <armorbundle>High Class</armorbundle>
   </armorbundles>
   <weaponlocations>
     <weaponlocation>Home</weaponlocation>
@@ -5458,8 +5566,8 @@ In the years since, she has made a name for herself as a freelance decker, outsh
   <improvementgroups />
   <calendar />
   <sources>
-    <source>SR5</source>
     <source>RG</source>
+    <source>SR5</source>
     <source>DT</source>
   </sources>
 </character>
