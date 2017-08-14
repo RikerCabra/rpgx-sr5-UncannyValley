@@ -119,7 +119,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <karma>0</karma>
       <augmodifier>0</augmodifier>
       <category>Standard</category>
-      <totalvalue>1</totalvalue>
+      <totalvalue>2</totalvalue>
     </attribute>
     <attribute>
       <name>REA</name>
@@ -130,7 +130,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <karma>0</karma>
       <augmodifier>0</augmodifier>
       <category>Standard</category>
-      <totalvalue>1</totalvalue>
+      <totalvalue>2</totalvalue>
     </attribute>
     <attribute>
       <name>STR</name>
@@ -804,67 +804,67 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>eb786d7a-53b2-4c59-aae6-e16d99f10821</id>
+        <id>f9bc7642-0142-437c-bc34-48d0c75749dd</id>
         <name>Stealth</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>514a16bf-8a51-4e22-98f2-f45aec89d180</id>
+        <id>0d3fbd79-1ea3-4888-9056-8adf7a0dbfd4</id>
         <name>Outdoors</name>
       </group>
       <group>
         <karma>0</karma>
         <base>2</base>
-        <id>d175fbe8-5618-4053-a439-e94fb142880f</id>
+        <id>39a5745b-92c1-4310-8cb0-583a9443e30a</id>
         <name>Influence</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>87eba586-fe4d-4e0c-bf75-1fc9b0d04ab2</id>
+        <id>37fb7bfd-396e-4fb5-82f9-70f89eef4e4c</id>
         <name>Firearms</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>3df971a1-a40d-4b71-9f06-af430ccc80e7</id>
+        <id>70e4033f-d673-4c22-8fdd-f5803c78a0d2</id>
         <name>Engineering</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>6c7fa221-ab93-4529-ba10-7cc616cd3282</id>
+        <id>837de379-1b2d-44df-a066-16f6dd93519d</id>
         <name>Electronics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>5f6e6fb3-4ed4-48bc-bd8d-ae76681d4350</id>
+        <id>c15c403e-3004-4417-ac84-9221ccbc5157</id>
         <name>Cracking</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>4d3fbc5b-b418-48e7-bf05-ae633fa0f691</id>
+        <id>4f324ea5-ce07-4803-96f7-aa64e79f1151</id>
         <name>Close Combat</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>f0e62fb7-50d1-4d84-9e41-d7e1498a133f</id>
+        <id>ebd15f61-3956-4988-a5b5-af276557b06f</id>
         <name>Biotech</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>52840146-834a-4892-b2bb-4f3f8ec0785c</id>
+        <id>e6bdfba6-cd51-42ef-8e60-3b6298c9fc8e</id>
         <name>Athletics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>3140379a-e654-46e0-8a24-435b762ec66b</id>
+        <id>0b9ac788-48b5-489b-9e06-6643d37d5b43</id>
         <name>Acting</name>
       </group>
     </groups>
@@ -987,7 +987,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <source>RG</source>
       <page>58</page>
       <armorname />
-      <equipped>True</equipped>
+      <equipped>False</equipped>
       <extra />
       <damage>0</damage>
       <rating>0</rating>
@@ -1056,7 +1056,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <source>SR5</source>
       <page>437</page>
       <armorname />
-      <equipped>True</equipped>
+      <equipped>False</equipped>
       <extra />
       <damage>0</damage>
       <rating>0</rating>
@@ -1080,7 +1080,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <source>RG</source>
       <page>68</page>
       <armorname />
-      <equipped>True</equipped>
+      <equipped>False</equipped>
       <extra />
       <damage>0</damage>
       <rating>0</rating>
@@ -1128,7 +1128,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <source>SR5</source>
       <page>437</page>
       <armorname />
-      <equipped>True</equipped>
+      <equipped>False</equipped>
       <extra />
       <damage>0</damage>
       <rating>0</rating>
@@ -1152,7 +1152,7 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <source>RG</source>
       <page>68</page>
       <armorname />
-      <equipped>True</equipped>
+      <equipped>False</equipped>
       <extra />
       <damage>0</damage>
       <rating>0</rating>
@@ -5293,29 +5293,6 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <notes />
     </improvement>
     <improvement>
-      <unique>Mortimer of London: Berwick Dress</unique>
-      <target />
-      <improvedname>Social</improvedname>
-      <sourcename>c88c82fe-2ae1-4edf-8a2d-cbca92f69458</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>1</val>
-      <rating>0</rating>
-      <exclude>Must be visible</exclude>
-      <improvementttype>LimitModifier</improvementttype>
-      <improvementsource>Armor</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-    </improvement>
-    <improvement>
       <target />
       <improvedname>Sneak</improvedname>
       <sourcename>7ef218e5-bc92-4e96-8718-dff8c3624a9f</sourcename>
@@ -5416,52 +5393,6 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <exclude />
       <improvementttype>Attribute</improvementttype>
       <improvementsource>EssenceLoss</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-    </improvement>
-    <improvement>
-      <unique>precedence-1</unique>
-      <target />
-      <improvedname>AGI</improvedname>
-      <sourcename>Armor Encumbrance</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>-1</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <improvementttype>Attribute</improvementttype>
-      <improvementsource>ArmorEncumbrance</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-    </improvement>
-    <improvement>
-      <unique>precedence-1</unique>
-      <target />
-      <improvedname>REA</improvedname>
-      <sourcename>Armor Encumbrance</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>-1</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <improvementttype>Attribute</improvementttype>
-      <improvementsource>ArmorEncumbrance</improvementsource>
       <custom>False</custom>
       <customname />
       <customid />
