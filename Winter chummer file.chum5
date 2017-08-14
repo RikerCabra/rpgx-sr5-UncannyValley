@@ -804,67 +804,67 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>ad205333-d686-4f5a-ada2-f58f87a19586</id>
+        <id>eb786d7a-53b2-4c59-aae6-e16d99f10821</id>
         <name>Stealth</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>5efaa047-e7f0-411b-8f9e-c372a24a6ca0</id>
+        <id>514a16bf-8a51-4e22-98f2-f45aec89d180</id>
         <name>Outdoors</name>
       </group>
       <group>
         <karma>0</karma>
         <base>2</base>
-        <id>22919d4b-d176-48b2-a013-5fed67d5a06e</id>
+        <id>d175fbe8-5618-4053-a439-e94fb142880f</id>
         <name>Influence</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>36f34eca-bdb2-4fe1-82e1-742a5e62010b</id>
+        <id>87eba586-fe4d-4e0c-bf75-1fc9b0d04ab2</id>
         <name>Firearms</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>b85b16d3-016c-423d-b432-eed4ec0672e6</id>
+        <id>3df971a1-a40d-4b71-9f06-af430ccc80e7</id>
         <name>Engineering</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>ac0ee088-f465-4297-aa2b-6bedd8d95db3</id>
+        <id>6c7fa221-ab93-4529-ba10-7cc616cd3282</id>
         <name>Electronics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>e6720354-7594-432b-9a73-34445a4fe76e</id>
+        <id>5f6e6fb3-4ed4-48bc-bd8d-ae76681d4350</id>
         <name>Cracking</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>77bdf724-e3eb-479b-bafb-b3054ae79292</id>
+        <id>4d3fbc5b-b418-48e7-bf05-ae633fa0f691</id>
         <name>Close Combat</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>dae71d99-1ce1-42d5-9725-c99ea4bb06b8</id>
+        <id>f0e62fb7-50d1-4d84-9e41-d7e1498a133f</id>
         <name>Biotech</name>
       </group>
       <group>
         <karma>0</karma>
         <base>0</base>
-        <id>f99556d9-e458-4250-9aff-85d8f2c0cf94</id>
+        <id>52840146-834a-4892-b2bb-4f3f8ec0785c</id>
         <name>Athletics</name>
       </group>
       <group>
         <karma>0</karma>
         <base>1</base>
-        <id>9bb28852-52b0-44c4-adb3-f8f5e332881d</id>
+        <id>3140379a-e654-46e0-8a24-435b762ec66b</id>
         <name>Acting</name>
       </group>
     </groups>
@@ -932,6 +932,24 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <location>The Tantalizing Troll</location>
       <connection>2</connection>
       <loyalty>3</loyalty>
+      <type>Contact</type>
+      <file />
+      <relative />
+      <notes />
+      <groupname />
+      <colour>0</colour>
+      <free>False</free>
+      <group>False</group>
+      <mademan>False</mademan>
+      <family>False</family>
+      <blackmail>False</blackmail>
+    </contact>
+    <contact>
+      <name>Seraph</name>
+      <role>Fixer</role>
+      <location>???</location>
+      <connection>10</connection>
+      <loyalty>2</loyalty>
       <type>Contact</type>
       <file />
       <relative />
@@ -2368,82 +2386,6 @@ In the years since, she has made a name for herself as a freelance decker, outsh
           <discountedcost>False</discountedcost>
         </gear>
         <gear>
-          <guid>11d724d1-d93a-401a-a4f3-f7e973bf666a</guid>
-          <id>f11b2c82-6dbb-4e32-831f-1387fff2274c</id>
-          <name>Program Carrier</name>
-          <category>Cyberdeck Modules</category>
-          <capacity />
-          <armorcapacity>[2]</armorcapacity>
-          <minrating>0</minrating>
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <qty>1</qty>
-          <avail>2</avail>
-          <avail3 />
-          <avail6 />
-          <avail10 />
-          <cost>900</cost>
-          <cost3 />
-          <cost6 />
-          <cost10 />
-          <extra>Program</extra>
-          <bonded>False</bonded>
-          <equipped>True</equipped>
-          <homenode>False</homenode>
-          <bonus>
-            <selecttext />
-          </bonus>
-          <source>DT</source>
-          <page>65</page>
-          <devicerating>0</devicerating>
-          <gearname />
-          <matrixcmfilled>0</matrixcmfilled>
-          <conditionmonitor>8</conditionmonitor>
-          <includedinparent>False</includedinparent>
-          <children />
-          <location />
-          <notes />
-          <discountedcost>False</discountedcost>
-        </gear>
-        <gear>
-          <guid>249739f4-c3e4-4dcc-bbf8-de32634ed9ee</guid>
-          <id>f11b2c82-6dbb-4e32-831f-1387fff2274c</id>
-          <name>Program Carrier</name>
-          <category>Cyberdeck Modules</category>
-          <capacity />
-          <armorcapacity>[2]</armorcapacity>
-          <minrating>0</minrating>
-          <maxrating>0</maxrating>
-          <rating>0</rating>
-          <qty>1</qty>
-          <avail>2</avail>
-          <avail3 />
-          <avail6 />
-          <avail10 />
-          <cost>900</cost>
-          <cost3 />
-          <cost6 />
-          <cost10 />
-          <extra />
-          <bonded>False</bonded>
-          <equipped>True</equipped>
-          <homenode>False</homenode>
-          <bonus>
-            <selecttext />
-          </bonus>
-          <source>DT</source>
-          <page>65</page>
-          <devicerating>0</devicerating>
-          <gearname />
-          <matrixcmfilled>0</matrixcmfilled>
-          <conditionmonitor>8</conditionmonitor>
-          <includedinparent>False</includedinparent>
-          <children />
-          <location />
-          <notes />
-          <discountedcost>False</discountedcost>
-        </gear>
-        <gear>
           <guid>2d88f687-4d79-43c8-98fe-d05eddbd9725</guid>
           <id>ec2a95d8-0c4a-459b-85b3-420174c09d5e</id>
           <name>Vectored Signal Filter</name>
@@ -2467,6 +2409,82 @@ In the years since, she has made a name for herself as a freelance decker, outsh
           <equipped>True</equipped>
           <homenode>False</homenode>
           <bonus>
+          </bonus>
+          <source>DT</source>
+          <page>65</page>
+          <devicerating>0</devicerating>
+          <gearname />
+          <matrixcmfilled>0</matrixcmfilled>
+          <conditionmonitor>8</conditionmonitor>
+          <includedinparent>False</includedinparent>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+        </gear>
+        <gear>
+          <guid>7ef218e5-bc92-4e96-8718-dff8c3624a9f</guid>
+          <id>f11b2c82-6dbb-4e32-831f-1387fff2274c</id>
+          <name>Program Carrier</name>
+          <category>Cyberdeck Modules</category>
+          <capacity />
+          <armorcapacity>[2]</armorcapacity>
+          <minrating>0</minrating>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <qty>1</qty>
+          <avail>2</avail>
+          <avail3 />
+          <avail6 />
+          <avail10 />
+          <cost>900</cost>
+          <cost3 />
+          <cost6 />
+          <cost10 />
+          <extra>Sneak</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <homenode>False</homenode>
+          <bonus>
+            <selecttext />
+          </bonus>
+          <source>DT</source>
+          <page>65</page>
+          <devicerating>0</devicerating>
+          <gearname />
+          <matrixcmfilled>0</matrixcmfilled>
+          <conditionmonitor>8</conditionmonitor>
+          <includedinparent>False</includedinparent>
+          <children />
+          <location />
+          <notes />
+          <discountedcost>False</discountedcost>
+        </gear>
+        <gear>
+          <guid>d052f431-f0c7-4597-a8cb-85cb821e74db</guid>
+          <id>f11b2c82-6dbb-4e32-831f-1387fff2274c</id>
+          <name>Program Carrier</name>
+          <category>Cyberdeck Modules</category>
+          <capacity />
+          <armorcapacity>[2]</armorcapacity>
+          <minrating>0</minrating>
+          <maxrating>0</maxrating>
+          <rating>0</rating>
+          <qty>1</qty>
+          <avail>2</avail>
+          <avail3 />
+          <avail6 />
+          <avail10 />
+          <cost>900</cost>
+          <cost3 />
+          <cost6 />
+          <cost10 />
+          <extra>Stealth</extra>
+          <bonded>False</bonded>
+          <equipped>True</equipped>
+          <homenode>False</homenode>
+          <bonus>
+            <selecttext />
           </bonus>
           <source>DT</source>
           <page>65</page>
@@ -5165,50 +5183,6 @@ In the years since, she has made a name for herself as a freelance decker, outsh
     </improvement>
     <improvement>
       <target />
-      <improvedname>Program</improvedname>
-      <sourcename>11d724d1-d93a-401a-a4f3-f7e973bf666a</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <improvementttype>Text</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-    </improvement>
-    <improvement>
-      <target />
-      <improvedname />
-      <sourcename>249739f4-c3e4-4dcc-bbf8-de32634ed9ee</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <improvementttype>Text</improvementttype>
-      <improvementsource>Gear</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-    </improvement>
-    <improvement>
-      <target />
       <improvedname>LOG</improvedname>
       <sourcename>05c1af41-19ed-4ed5-b8eb-a3dd8862c8cb</sourcename>
       <min>0</min>
@@ -5332,6 +5306,50 @@ In the years since, she has made a name for herself as a freelance decker, outsh
       <exclude>Must be visible</exclude>
       <improvementttype>LimitModifier</improvementttype>
       <improvementsource>Armor</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Sneak</improvedname>
+      <sourcename>7ef218e5-bc92-4e96-8718-dff8c3624a9f</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
+      <custom>False</custom>
+      <customname />
+      <customid />
+      <customgroup />
+      <addtorating>False</addtorating>
+      <enabled>True</enabled>
+      <order>0</order>
+      <notes />
+    </improvement>
+    <improvement>
+      <target />
+      <improvedname>Stealth</improvedname>
+      <sourcename>d052f431-f0c7-4597-a8cb-85cb821e74db</sourcename>
+      <min>0</min>
+      <max>0</max>
+      <aug>0</aug>
+      <augmax>0</augmax>
+      <val>0</val>
+      <rating>1</rating>
+      <exclude />
+      <improvementttype>Text</improvementttype>
+      <improvementsource>Gear</improvementsource>
       <custom>False</custom>
       <customname />
       <customid />
@@ -5542,6 +5560,52 @@ In the years since, she has made a name for herself as a freelance decker, outsh
         <nuyentype>AddArmor</nuyentype>
         <objectid>c88c82fe-2ae1-4edf-8a2d-cbca92f69458</objectid>
         <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>6250f6f3-3f4d-4ae2-a74a-35f04a14d99b</guid>
+      <date>2017-08-14T16:34:22</date>
+      <amount>900</amount>
+      <reason>Sold Gear Program Carrier</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+    </expense>
+    <expense>
+      <guid>e1278105-b371-43b2-b515-4990e5f8585c</guid>
+      <date>2017-08-14T16:34:29</date>
+      <amount>900</amount>
+      <reason>Sold Gear Program Carrier</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+    </expense>
+    <expense>
+      <guid>491f16bd-ba62-4a7d-8c0c-9f0f439c5291</guid>
+      <date>2017-08-14T16:35:17</date>
+      <amount>-900</amount>
+      <reason>Purchased Gear Program Carrier</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>7ef218e5-bc92-4e96-8718-dff8c3624a9f</objectid>
+        <qty>1</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>2fcee091-2ffe-4d79-86ef-95e58cfd72a4</guid>
+      <date>2017-08-14T16:35:32</date>
+      <amount>-900</amount>
+      <reason>Purchased Gear Program Carrier</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>d052f431-f0c7-4597-a8cb-85cb821e74db</objectid>
+        <qty>1</qty>
         <extra />
       </undo>
     </expense>
